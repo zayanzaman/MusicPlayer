@@ -1,0 +1,21 @@
+
+# Local IDE / machine files
+# SECRETS - never commit
+*.aab
+*.apk
+*.hprof
+*.iml
+*.jks
+*.keystore
+*.log
+.DS_Store
+.cxx
+.externalNativeBuild
+.gradle/
+/.idea/
+/app/build/
+/build/
+/captures
+/local.properties
+keystore.properties
+local.properties

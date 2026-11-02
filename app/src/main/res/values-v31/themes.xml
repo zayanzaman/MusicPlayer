@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.MusicPlayer" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/splash_background</item>
+        <item name="android:windowSplashScreenBackground">@color/splash_background</item>
+        <!-- empty icon: the logo itself is drawn by the app (LogoSplash) so it follows the in-app theme -->
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/splash_empty</item>
+    </style>
+</resources>
